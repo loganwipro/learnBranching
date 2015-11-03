@@ -1,0 +1,7 @@
+#This has a list of tables inserted into the db.
+[ production ]
+projectA
+
+[ dev ]
+
+[ uat ]
